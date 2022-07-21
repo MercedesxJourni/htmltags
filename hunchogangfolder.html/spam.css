@@ -1,14 +1,16 @@
-.topsection{background:gray;}
-.lifesylepass{background:darkgrey;}
-body{background:grey;}
+
+
+
+
 .camera{width:400px;}
 .photo{width:500px;}
 .tacos{width:500px;}
 
-p{color:darkred}
-
-.topsection{text-align:center;}
+p{color:darkgoldenrod}.topsection{text-align:center;}
 
 .lifesylepass{text-align:center;}
 p{text-align:center;}
-p{text-decoration:;}
+
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQLg6kMvk2d4vMP-yGsRZACUGbU7RfLVJ7A&);}
+
+
