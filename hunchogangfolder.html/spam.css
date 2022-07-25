@@ -2,15 +2,28 @@
 
 
 
-.camera{width:400px;}
-.photo{width:500px;}
-.tacos{width:500px;}
+.photo{width:200px;}
+.land{width:200px;}
+.winter{width:200px;}
 
-p{color:darkgoldenrod}.topsection{text-align:center;}
+p{color:lavender}.topsection{text-align:center;
+;}
 
 .lifesylepass{text-align:center;}
 p{text-align:center;}
 
-body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQLg6kMvk2d4vMP-yGsRZACUGbU7RfLVJ7A&);}
+body{background-image: url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OHx8fGVufDB8fHx8&w=1000&q=80);}
+
+.title{color:whitesmoke;
 
 
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.lifesylepass{color:whitesmoke;}
+.lifesylepass {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: xx-large;
+color: cyan;}
+
+p{color:blueviolet;}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.title{color:lightcyan;}
